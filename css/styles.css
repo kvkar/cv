@@ -1,50 +1,54 @@
-   /****************************TAG SELECTOR************************/
+  /****************************TAG SELECTOR************************/
 
- body{
- background-color:#24A19C;
+body{
+background-color:#24A19C;
+  font-family: "Courier New", Courier, monospace;
 }
 h1{
-  color:#C0D8C0;
+color:#C0D8C0;
 }
 h2{
-  color:#C0D8C0;
+color:#C0D8C0;
 }
 hr{
- border-style:none;
- border-top-style: dotted;
- border-color: #000000;
- border-width:5px;
- width: 10%;
+border-style:none;
+border-top-style: dotted;
+border-color: #000000;
+border-width:5px;
+width: 10%;
 }
-     /****************************CLASS SELECTOR************************/
+  /****************************CLASS SELECTOR************************/
 
-     .circular{
-       border-radius: 300%;
-     }
-     .top-container{
-       background-color:#24A19C;
-       width: 00PX;
-       height: 00PX;
+  .circular{
+    border-radius: 300%;
+  }
+  .top-container{
+    background-color:#24A19C;
+    width: 00PX;
+    height: 00PX;
 margin-left: 100px;
-       padding: 10px;
-     }
-     .middle-container{
-       background-color:#24A19C;
-       width: 800PX;
-       height: 400PX;
-   margin-left: 200px;
-       padding: 10px;
-     }
-     .bottom-container{
-       background-color:#24A19C;
-       width: 800PX;
-       height: 200PX;
- margin-left: 200px;
-       padding: 10px;
-     }
+    padding: 10px;
+  }
+  .middle-container{
+    background-color:#24A19C;
+    width: 800PX;
+    height: 400PX;
+margin-left: 200px;
+    padding: 10px;
+  }
+  .bottom-container{
+    background-color:#24A19C;
+    width: 800PX;
+    height: 200PX;
+margin-left: 200px;
+    padding: 10px;
+  }
+  .last-container{
+    text-align:center;
 
-      /****************************ID SELECTOR************************/
-      #HEADLING{
-        color : black;
-      }
+  }
 
+   /****************************ID SELECTOR************************/
+   #HEADLING{
+     color : black;
+   }
